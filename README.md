@@ -19,3 +19,15 @@ sudo bash seehim.sh
 ### Donate:
 
 http://sullfurix.rf.gd/
+
+### Information:
+
+* Tool Name: Seehim
+* Tool URI: https://github.com/SullFurix/Seehim/
+* Description: Seehim is a webcam tool.
+* Version: 4.0.0
+* Author: SullFurix
+* Author URI: https://github.com/SullFurix/
+* Copyright: © 2020 SullFurix.
+* License: GNU General Public License v3.0
+* License URI: http://www.gnu.org/licenses/gpl-3.0.html
